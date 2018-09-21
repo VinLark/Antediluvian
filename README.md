@@ -1,4 +1,5 @@
-# Antediluvian kernel
+Antediluvian kernel
+====================
 
 A fork of the Linux kernel. 
 
