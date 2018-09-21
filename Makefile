@@ -1,9 +1,9 @@
 # SPDX-License-Identifier: GPL-2.0
-VERSION = 4
-PATCHLEVEL = 19
+VERSION = 1
+PATCHLEVEL = 0
 SUBLEVEL = 0
-EXTRAVERSION = -rc4
-NAME = Merciless Moray
+EXTRAVERSION = 
+NAME = Catalyst Floor
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
