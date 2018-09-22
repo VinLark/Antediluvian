@@ -5,7 +5,7 @@ A fork of the Linux kernel.
 
 Compiled using the 5 step program.
 
-``make modules``
+``make``
 
 ``make modules_install``
 
