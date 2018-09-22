@@ -1,5 +1,4 @@
-Antediluvian kernel
-====================
+
 ![LoGo](http://repo.vinlark.info/antediluvian/logo.PNG)
 
 A fork of the Linux kernel. 
