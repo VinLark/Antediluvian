@@ -4,6 +4,7 @@
 A fork of the Linux kernel. 
 
 Compiled using the 6 step program.
+
 ``make menuconfig``
 
 ``make``
